@@ -3,6 +3,10 @@
 	padding: 0;
 }
 
+.anhavatar img {
+    width: 400px;
+}
+
 body {
 	font-family: segoe ui light;
 }
